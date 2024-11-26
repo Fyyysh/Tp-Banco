@@ -1,0 +1,64 @@
+Ingreso
+pe
+Se Ingreso: 10000.000000
+----------
+CompraUsd
+pe
+Se compro: 10
+----------
+CompraUsd
+pe
+Se compro: 1
+----------
+CompraUsd
+pe
+Se compro: 9
+----------
+VentaUsd
+pe
+Se vendio: 20
+----------
+Creacion plazo fijo
+pe
+Se invirtio: 10000.000000 y se genero de interes: 575.342468
+----------
+Creacion plazo fijo
+pe
+Se invirtio: 5000.000000 y se genero de interes: 287.671234
+----------
+Creacion plazo fijo
+pe
+Se invirtio: 5000.000000 y se genero de interes: 575.342468
+----------
+Creacion plazo fijo
+pe
+Se invirtio: 10000.000000 y se genero de interes: 1726.027344
+----------
+Cancelacion Plazo Fijo
+pe
+Se devolvieron: 5000.000000 pesos
+----------
+Ingreso
+pe
+Se Ingreso: 10000.000000
+----------
+Ingreso
+pe
+Se Ingreso: 10000.000000
+----------
+Prestamo otorgado
+pe
+Se pidio un prestamo medio de: 8000.000000
+----------
+Prestamo otorgado
+pe
+Se pidio un prestamo basico de: 4400.000000
+----------
+Ingreso
+pe
+Se Ingreso: 7601.000000
+----------
+Prestamo otorgado
+pe
+Se pidio un prestamo premium de: 15000.0000
+----------
